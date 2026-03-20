@@ -1,2 +1,3 @@
-# micro-e-learning-kway
-Automated issue comment bot repository
+# Micro E Learning Kway
+
+Automated issue comment bot repository.
